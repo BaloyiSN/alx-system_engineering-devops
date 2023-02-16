@@ -1,2 +1,2 @@
-#!/ova/onfu
+#!/bin/bash
 ge 'rpub(n..m) ge q ' '' 'rpub{A..M} $(rpub{N..Z}) / ge -q' '''
